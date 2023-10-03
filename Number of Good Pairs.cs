@@ -1,3 +1,4 @@
+/*
 Number of Good Pairs
 
 Hint
@@ -23,7 +24,7 @@ Output: 0
 Constraints:
 1 <= nums.length <= 100
 1 <= nums[i] <= 100
-
+*/
 
 public class Solution {
     public int NumIdenticalPairs(int[] nums) {
