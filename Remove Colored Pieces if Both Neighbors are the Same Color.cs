@@ -1,10 +1,6 @@
 /*
 Remove Colored Pieces if Both Neighbors are the Same Color
-Solved
-Medium
-Topics
-Companies
-Hint
+
 There are n pieces arranged in a line, and each piece is colored either by 'A' or by 'B'. You are given a string colors of length n where colors[i] is the color of the ith piece.
 
 Alice and Bob are playing a game where they take alternating turns removing pieces from the line. In this game, Alice moves first.
